@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_fajita.mk
+    $(LOCAL_DIR)/weedos_fajita.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_fajita-user \
-    lineage_fajita-userdebug \
-    lineage_fajita-eng
+    weedos_fajita-user \
+    weedos_fajita-userdebug \
+    weedos_fajita-eng
