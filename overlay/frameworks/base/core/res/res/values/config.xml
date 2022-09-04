@@ -411,4 +411,7 @@
         <item>2053</item> <!-- <item>sensorLocationY</item> -->
         <item>87</item>   <!-- <item>sensorRadius</item> -->
     </integer-array>
+    
+       <!-- Whether device has dash charging support -->
+    <bool name="config_hasDashCharger">true</bool>
 </resources>
